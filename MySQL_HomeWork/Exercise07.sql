@@ -11,7 +11,7 @@ insert into EMP(EMPNO, ENAME, JOB, MGR, HIREDATE, SAL, DEPTNO)
 values 
     (9999, 'William', 'PG', null, NOW(), 2500, 50),
     (8888, 'Lee', 'PM', null, NOW(), 3500, 50);
-    
+
 -- 3. 請修改資料表EMP的資料..
 -- 員工8888的主管改為7839
 -- 員工9999的主管改為8888
